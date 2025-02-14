@@ -1,4 +1,3 @@
-# Belajar python
 # Learning-Python
 
 > **This is my repository for learning Python from scratch.**
