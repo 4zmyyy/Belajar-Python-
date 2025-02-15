@@ -25,8 +25,8 @@ On my first & second day, I started creating simple programs like:
 - **Number Guessing Game**: A simple interactive game to guess a random number.
 
 ## Progress on Day 3 ( Feb, 15, 2025)
-- **Basic Python & Machine learning for AI**
-- **Analysis of product sales using the Panda library**
+- **Basic Python & Machine learning Theory**: Learned about libraries like NumPy and Pandas for Data Analysis & Machine Learning
+- **Analysis of product sales using the Panda library**: Created a simple program to analyze product sales data, calculate revenue, and identify best-selling product.
 
 These projects are still very basic, but they help me understand how Python works in practice.
 
