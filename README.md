@@ -24,7 +24,7 @@ On my first & second day, I started creating simple programs like:
 - **Calculator**: A program to perform basic math operations.
 - **Number Guessing Game**: A simple interactive game to guess a random number.
 
-- ## Progress on Day 3 ( Feb, 15, 2025)
+## Progress on Day 3 ( Feb, 15, 2025)
 - **Basic Python & Machine learning for AI**
 - **Analysis of product sales using the Panda library**
 
