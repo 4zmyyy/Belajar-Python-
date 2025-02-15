@@ -17,12 +17,16 @@ So far, I’ve learned some basic Python concepts, such as:
 
 ---
 
-## Progress on Day Two
+## Progress on Day 1 & 2 ( Feb, 13-14, 2025 )
 
-On my second day, I started creating simple programs like:
+On my first & second day, I started creating simple programs like:
 - **To-Do List**: An app to add, view, and delete tasks.
 - **Calculator**: A program to perform basic math operations.
 - **Number Guessing Game**: A simple interactive game to guess a random number.
+
+- ## Progress on Day 3 ( Feb, 15, 2025)
+- **Basic Python & Machine learning for AI**
+- **Analysis of product sales using the Panda library**
 
 These projects are still very basic, but they help me understand how Python works in practice.
 
