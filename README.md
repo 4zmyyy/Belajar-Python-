@@ -28,18 +28,21 @@ On my first & second day, I started creating simple programs like:
 - **Basic Python & Machine learning Theory**: Learned about libraries like NumPy and Pandas for Data Analysis & Machine Learning
 - **Analysis of product sales using the Panda library**: Created a simple program to analyze product sales data, calculate revenue, and identify best-selling product.
 
-These projects are still very basic, but they help me understand how Python works in practice.
-
+## Progress on Day 4 ( Feb, 19, 2025)
+- **Exploring Attention Mechanism**:Learned how attention weights work in Transformers and visualized them using heatmaps.
+- **Heatmap Animation** :Created a simple animation to display attention weights using Matplotlib.
+- **Export as GIF/MP4** :Saved the visualization as a GIF and MP4 file to share.
+- 
 ---
 
 ## About Me
 
-I’m a beginner in programming, and this is my first step toward learning Python. Hopefully, these notes can also help others who are just starting out!
+I’m a beginner in programming, and this is my first step toward learning Python, Machine Learning, AI & LLM. Hopefully, these notes can also help others who are just starting out!
 
 ---
 
 ### Notes
-This repository will be updated regularly as I continue learning Python. 😊
+This repository will be updated regularly as I continue learning Python, Machine Learning, AI & LLM. 😊
 
 ---
 
