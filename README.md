@@ -2,7 +2,7 @@
 
 > **This is my repository for learning Python from scratch.**
 
-I started learning Python because I want to understand the basics of programming and improve my logical thinking skills. I don’t have any prior programming background, so this is my first step into the world of coding.
+I started learning Python because I want to understand the basics of programming and improve my logical thinking skills. I don’t have any prior programming background, so this is my first step into the world of coding. However, i have an interest into AI, Machine Learning, Coding & LLM. 
 
 ---
 
