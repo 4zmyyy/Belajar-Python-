@@ -29,10 +29,10 @@ On my first & second day, I started creating simple programs like:
 - **Analysis of product sales using the Panda library**: Created a simple program to analyze product sales data, calculate revenue, and identify best-selling product.
 
 ## Progress on Day 4 ( Feb, 19, 2025)
-- **Exploring Attention Mechanism**:Learned how attention weights work in Transformers and visualized them using heatmaps.
-- **Heatmap Animation** :Created a simple animation to display attention weights using Matplotlib.
-- **Export as GIF/MP4** :Saved the visualization as a GIF and MP4 file to share.
-- 
+- **Exploring Attention Mechanism**: Learned how attention weights work in Transformers and visualized them using heatmaps.
+- **Heatmap Animation** : Created a simple animation to display attention weights using Matplotlib.
+- **Export as GIF/MP4** : Saved the visualization as a GIF and MP4 file to share.
+
 ---
 
 ## About Me
