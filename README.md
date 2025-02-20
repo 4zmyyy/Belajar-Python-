@@ -14,6 +14,9 @@ So far, I’ve learned some basic Python concepts, such as:
 - **Conditionals (`if-else`)**: Making decisions based on certain conditions.
 - **Loops (`for`, `while`)**: Automating repetitive tasks.
 - **Functions**: Organizing code into reusable blocks.
+- **Attention Mechanism**: Understanding how models focus on specific parts of input data.
+- **Heatmap Visualization** : Creating heatmaps to visualize data distributions and model attention.
+- **Export GIF/MP4** : Saving visual outputs as GIF or MP4 for better presentation and analysis.
 
 ---
 
