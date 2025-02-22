@@ -17,35 +17,40 @@ So far, I’ve learned some basic Python concepts, such as:
 - **Attention Mechanism**: Understanding how models focus on specific parts of input data.
 - **Heatmap Visualization** : Creating heatmaps to visualize data distributions and model attention.
 - **Export GIF/MP4** : Saving visual outputs as GIF or MP4 for better presentation and analysis.
+-  **Reinforcement Learning Animation** : Random visualization to look agent behaviour.
+-  **Sankey Diagram** : Visualizes token interactions using flow diagram.
 
 ---
 
 ## Progress on Day 1 & 2 ( Feb, 13-14, 2025 )
 
-On my first & second day, I started creating simple programs like:
 - **To-Do List**: An app to add, view, and delete tasks.
 - **Calculator**: A program to perform basic math operations.
 - **Number Guessing Game**: A simple interactive game to guess a random number.
 
 ## Progress on Day 3 ( Feb, 15, 2025)
+
 - **Basic Python & Machine learning Theory**: Learned about libraries like NumPy and Pandas for Data Analysis & Machine Learning
 - **Analysis of product sales using the Panda library**: Created a simple program to analyze product sales data, calculate revenue, and identify best-selling product.
 
-## Progress on Day 4 ( Feb, 19, 2025)
+## Progress on Day 4-7 ( Feb, 19 - 22)
+
 - **Exploring Attention Mechanism**: Learned how attention weights work in Transformers and visualized them using heatmaps.
 - **Heatmap Animation** : Created a simple animation to display attention weights using Matplotlib.
 - **Export as GIF/MP4** : Saved the visualization as a GIF and MP4 file to share.
+- **Animated Attention Heatmap** : Color intensity represents attention strength, Animated layer transitions, Generates GIF output
+- **Sankey Diagram** : Visualizes token interactions using flow diagram with Arrow, Nodes represent tokens/attention, Customizable colors/labels
+- **Reinforcement Learning Animation** : Random action selection, Real-time pole balancing visualization, Outputs GIF of agent behavior
 
 ---
 
 ## About Me
-
-I’m a beginner in programming, and this is my first step toward learning Python, Machine Learning, AI & LLM. Hopefully, these notes can also help others who are just starting out!
+I'm new to programming, starting with Python, Machine Learning, AI, and LLMs. My notes aim to understand how use Python properly.
 
 ---
 
 ### Notes
-This repository will be updated regularly as I continue learning Python, Machine Learning, AI & LLM. 😊
+This my first repository will be updated regularly as I continue learning Python, Machine Learning, AI & LLM 😊
 
 ---
 
