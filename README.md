@@ -19,6 +19,8 @@ So far, I’ve learned some basic Python concepts, such as:
 - **Export GIF/MP4** : Saving visual outputs as GIF or MP4 for better presentation and analysis.
 -  **Reinforcement Learning Animation** : Random visualization to look agent behaviour.
 -  **Sankey Diagram** : Visualizes token interactions using flow diagram.
+-  **Nested Loop** : Loop in Loop, use for make 2D structure diagram.
+-  **Simple pattern 2D** : Make a simple design with star, cross pattern, multi cross, hollow pyramid diagram
 
 ---
 
@@ -41,6 +43,12 @@ So far, I’ve learned some basic Python concepts, such as:
 - **Animated Attention Heatmap** : Color intensity represents attention strength, Animated layer transitions, Generates GIF output
 - **Sankey Diagram** : Visualizes token interactions using flow diagram with Arrow, Nodes represent tokens/attention, Customizable colors/labels
 - **Reinforcement Learning Animation** : Random action selection, Real-time pole balancing visualization, Outputs GIF of agent behavior
+
+## Progress on Day 8-9 ( Feb, 25-26)
+- **Loops (`for`, `while`)**: Automating repetitive tasks (remind).
+- **Functions**: Organizing code into reusable blocks (remind). 
+-  **Nested Loop** : Loop in Loop, use for make 2D structure diagram.
+-  **Simple pattern 2D** : Make a simple design with star, cross pattern, multi cross, hollow pyramid diagram
 
 ---
 
