@@ -50,6 +50,15 @@ So far, I’ve learned some basic Python concepts, such as:
 -  **Nested Loop** : Loop in Loop, use for make 2D structure diagram.
 -  **Simple pattern 2D** : Make a simple design with star, cross pattern, multi cross, hollow pyramid diagram
 
+## Progress on Day 9-11 ( Feb, 25-28)
+- **Loops (`for`, `while`)**: Automating repetitive tasks (remind).
+- **Functions**: Organizing code into reusable blocks (remind). 
+-  **Nested Loop** : Loop in Loop, use for make 2D structure diagram.
+-  **Simple pattern 2D** : Make a simple design with star, cross pattern, multi cross, hollow pyramid diagram.
+-  **Calculator for Math** : Make a simple calculator to work simple math operation.
+-  **Diamond Diagram** : Create diamond pattern with plot pattern & colour combination.
+-  **Cube gif & Rotation** : Implementation Matplotlib for Cube rotation with gif format.
+
 ---
 
 ## About Me
