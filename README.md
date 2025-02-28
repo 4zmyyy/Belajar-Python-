@@ -21,6 +21,7 @@ So far, I’ve learned some basic Python concepts, such as:
 -  **Sankey Diagram** : Visualizes token interactions using flow diagram.
 -  **Nested Loop** : Loop in Loop, use for make 2D structure diagram.
 -  **Simple pattern 2D** : Make a simple design with star, cross pattern, multi cross, hollow pyramid diagram
+-  
 
 ---
 
@@ -29,6 +30,9 @@ So far, I’ve learned some basic Python concepts, such as:
 - **To-Do List**: An app to add, view, and delete tasks.
 - **Calculator**: A program to perform basic math operations.
 - **Number Guessing Game**: A simple interactive game to guess a random number.
+- **Calculator for Math** : Make a simple calculator to work simple math operation.
+- **Diamond Diagram** : Create diamond pattern with plot pattern & colour combination.
+- **Cube gif & Rotation** : Implementation Matplotlib for Cube rotation with gif format.
 
 ## Progress on Day 3 ( Feb, 15, 2025)
 
