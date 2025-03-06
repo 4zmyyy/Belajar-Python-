@@ -21,6 +21,9 @@ So far, I’ve learned some basic Python concepts, such as:
 -  **Sankey Diagram** : Visualizes token interactions using flow diagram.
 -  **Nested Loop** : Loop in Loop, use for make 2D structure diagram.
 -  **Simple pattern 2D** : Make a simple design with star, cross pattern, multi cross, hollow pyramid diagram
+-  **Uses the classic Iris dataset (150 samples, 4 features)**
+- **Implements K-Nearest Neighbors (KNN) algorithm**
+- **Includes train/test split and model evaluation**
 -  
 
 ---
@@ -62,6 +65,11 @@ So far, I’ve learned some basic Python concepts, such as:
 -  **Calculator for Math** : Make a simple calculator to work simple math operation.
 -  **Diamond Diagram** : Create diamond pattern with plot pattern & colour combination.
 -  **Cube gif & Rotation** : Implementation Matplotlib for Cube rotation with gif format.
+
+-  ## Progress on Day 13 ( Mar, 6)
+- **Uses the classic Iris dataset (150 samples, 4 features)**
+- **Implements K-Nearest Neighbors (KNN) algorithm**
+- **Includes train/test split and model evaluation**
 
 ---
 
