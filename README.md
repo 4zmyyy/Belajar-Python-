@@ -24,8 +24,7 @@ So far, I’ve learned some basic Python concepts, such as:
 -  **Uses the classic Iris dataset (150 samples, 4 features)**
 - **Implements K-Nearest Neighbors (KNN) algorithm**
 - **Includes train/test split and model evaluation**
-- **visualization techniques: exploration using matplotlib, seaborn, and animation**
--  
+- **visualization techniques: exploration using matplotlib, seaborn, and animation** 
 
 ---
 
@@ -73,7 +72,9 @@ So far, I’ve learned some basic Python concepts, such as:
 - **Includes train/test split and model evaluation**
 
 - ## Progress on Day 14 ( Mar, 7 )
-- Today's learning focused on data visualization techniques using matplotlib, seaborn, and animation functions. **We explored the Iris dataset visualization, created simple animations with matplotlib FuncAnimation, and analyzed complex patterns using seaborn's statistical plots.** Key points included understanding figure setup, animation frame management, and interpreting seaborn's statistical representations. **We encountered common errors such as `AttributeError`** (when methods weren't properly imported) and `NameError` (when variables weren't defined in the correct scope), which taught us the importance of proper library imports and variable management. These errors highlighted the learning process of debugging and understanding Python's error messaging system.
+- Today's learning focused on data visualization techniques using matplotlib, seaborn, and animation functions. **We explored the Iris dataset visualization, created simple animations with matplotlib FuncAnimation, and analyzed complex patterns using seaborn's statistical plots.** Key points included understanding figure setup, animation frame management, and interpreting seaborn's statistical representations.
+- **We encountered common errors such as `AttributeError`** (when methods weren't properly imported) and `NameError` (when variables weren't defined in the correct scope), which taught us the importance of proper library imports and variable management. These errors highlighted the learning process of debugging and understanding Python's error messaging system.
+
 ---
 
 ## About Me
