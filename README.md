@@ -78,8 +78,9 @@ So far, I’ve learned some basic Python concepts, such as:
 - ## Progress on Day 15 ( Mar, 8 )
 - **Error File GeoJSON not included:** DataSourceError: tangsel.geojson: No such file or directory
 - **Matrix & Vector application with theory**
-- **Error Dataset Natural Earth not included:** AttributeError: The geopandas.dataset has been deprecated and was removed in GeoPandas 1.0.
+- **Error Dataset Natural Earth not included:** Changed structure dataset in new Data from Naturalearth
 - **Check the code, File reconditioning and alternative visualization for better graphic** 
+
 ---
 
 ## About Me
