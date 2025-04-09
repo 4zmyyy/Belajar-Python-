@@ -87,6 +87,7 @@ So far, I’ve learned some basic Python concepts, such as:
 - Implementing a rotation animation with horizontal movement
 - Resolving deprecation warnings related to colormap access
 - Saving the animation as a GIF using PillowWriter
+- Simple visualization with dummy data for election in Jabodetabek & Tangsel
 ---
 
 ## About Me
