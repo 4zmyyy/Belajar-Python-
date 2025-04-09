@@ -71,17 +71,17 @@ So far, I’ve learned some basic Python concepts, such as:
 - **Implements K-Nearest Neighbors (KNN) algorithm**
 - **Includes train/test split and model evaluation**
 
-- ## Progress on Day 14 ( Mar, 7 )
+## Progress on Day 14 ( Mar, 7 )
 - Today's learning focused on data visualization techniques using matplotlib, seaborn, and animation functions. **We explored the Iris dataset visualization, created simple animations with matplotlib FuncAnimation, and analyzed complex patterns using seaborn's statistical plots.** Key points included understanding figure setup, animation frame management, and interpreting seaborn's statistical representations.
 - **We encountered common errors such as `AttributeError`** (when methods weren't properly imported) and `NameError` (when variables weren't defined in the correct scope), which taught us the importance of proper library imports and variable management. These errors highlighted the learning process of debugging and understanding Python's error messaging system.
 
-- ## Progress on Day 15 ( Mar, 8 )
+## Progress on Day 15 ( Mar, 8 )
 - **Error File GeoJSON not included:** DataSourceError: tangsel.geojson: No such file or directory
 - **Matrix & Vector application with theory**
 - **Error Dataset Natural Earth not included:** Changed structure dataset in new Data from Naturalearth
 - **Check the code, File reconditioning and alternative visualization for better graphic** 
 
-- ## Progress on Day 16 - 17 ( Apr, 8-9 )
+## Progress on Day 16 - 17 ( Apr, 8-9 )
 - Setting up the 3D cube coordinates
 - Applying a color gradient using Matplotlib's 'winter' colormap
 - Implementing a rotation animation with horizontal movement
