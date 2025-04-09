@@ -81,6 +81,12 @@ So far, I’ve learned some basic Python concepts, such as:
 - **Error Dataset Natural Earth not included:** Changed structure dataset in new Data from Naturalearth
 - **Check the code, File reconditioning and alternative visualization for better graphic** 
 
+- ## Progress on Day 16 - 17 ( Apr, 8-9 )
+- Setting up the 3D cube coordinates
+- Applying a color gradient using Matplotlib's 'winter' colormap
+- Implementing a rotation animation with horizontal movement
+- Resolving deprecation warnings related to colormap access
+- Saving the animation as a GIF using PillowWriter
 ---
 
 ## About Me
