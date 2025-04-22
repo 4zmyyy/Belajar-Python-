@@ -92,9 +92,9 @@ So far, I’ve learned some basic Python concepts, such as:
 ## Progress on Day 18
 
 ## Progress on Day 19 ( Apr, 22 )
-- CNN for MNIST Classification : Built a Convolutional Neural Network (CNN) to classify handwritten digits (MNIST dataset)
-- Data Analysis: Population Distribution (Javanese Island, Indonesia with Dummy Data)
-- Animated 3D-like Visualization : Created an animated system of transparent spheres with moving particles.
+- **CNN for MNIST Classification**: Built a Convolutional Neural Network (CNN) to classify handwritten digits (MNIST dataset)
+- **Data Analysis**: Population Distribution (Javanese Island, Indonesia with Dummy Data)
+- **Animated 3D-like Visualization**: Created an animated system of transparent spheres with moving particles.
 
 ## About Me
 Programming ammateur, starting with Python, Machine Learning, AI, and LLMs.
