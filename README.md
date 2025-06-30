@@ -41,7 +41,6 @@ So far, I’ve learned some Python concepts, such as:
 - **Analysis of product sales using the Panda library**: Created a simple program to analyze product sales data, calculate revenue, and identify best-selling product.
 
 ## Progress on Day 4-7 ( Feb, 19 - 22)
-
 - **Exploring Attention Mechanism**: Learned how attention weights work in Transformers and visualized them using heatmaps.
 - **Heatmap Animation** : Created a simple animation to display attention weights using Matplotlib.
 - **Export as GIF/MP4** : Saved the visualization as a GIF and MP4 file to share.
@@ -64,7 +63,7 @@ So far, I’ve learned some Python concepts, such as:
 -  **Diamond Diagram** : Create diamond pattern with plot pattern & colour combination.
 -  **Cube gif & Rotation** : Implementation Matplotlib for Cube rotation with gif format.
 
--  ## Progress on Day 13 ( Mar, 6)
+## Progress on Day 13 ( Mar, 6)
 - **Uses the classic Iris dataset (150 samples, 4 features)**
 - **Implements K-Nearest Neighbors (KNN) algorithm**
 - **Includes train/test split and model evaluation**
