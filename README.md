@@ -20,11 +20,11 @@ So far, I’ve learned some basic Python concepts, such as:
 -  **Reinforcement Learning Animation** : Random visualization to look agent behaviour.
 -  **Sankey Diagram** : Visualizes token interactions using flow diagram.
 -  **Nested Loop** : Loop in Loop, use for make 2D structure diagram.
--  **Simple pattern 2D** : Make a simple design with star, cross pattern, multi cross, hollow pyramid diagram
+-  **Simple pattern 2D** : Make a simple design with star, cross pattern, multi cross, hollow pyramid diagram.
 -  **Uses the classic Iris dataset (150 samples, 4 features)**
 - **Implements K-Nearest Neighbors (KNN) algorithm**
 - **Includes train/test split and model evaluation**
-- **visualization techniques: exploration using matplotlib, seaborn, and animation** 
+- **visualization techniques**: exploration using matplotlib, seaborn, and animation. 
 
 ---
 
