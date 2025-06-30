@@ -8,7 +8,7 @@ I started learning Python because I want to understand the basics of programming
 
 ## What I've Learned So Far
 
-So far, I’ve learned some basic Python concepts, such as:
+So far, I’ve learned some Python concepts, such as:
 - **Variables and Data Types**: How to store data in variables.
 - **User Input**: Creating programs that can interact with users.
 - **Conditionals (`if-else`)**: Making decisions based on certain conditions.
@@ -29,7 +29,6 @@ So far, I’ve learned some basic Python concepts, such as:
 ---
 
 ## Progress on Day 1 & 2 ( Feb, 13-14, 2025 )
-
 - **To-Do List**: An app to add, view, and delete tasks.
 - **Calculator**: A program to perform basic math operations.
 - **Number Guessing Game**: A simple interactive game to guess a random number.
@@ -38,7 +37,6 @@ So far, I’ve learned some basic Python concepts, such as:
 - **Cube gif & Rotation** : Implementation Matplotlib for Cube rotation with gif format.
 
 ## Progress on Day 3 ( Feb, 15, 2025)
-
 - **Basic Python & Machine learning Theory**: Learned about libraries like NumPy and Pandas for Data Analysis & Machine Learning
 - **Analysis of product sales using the Panda library**: Created a simple program to analyze product sales data, calculate revenue, and identify best-selling product.
 
@@ -98,6 +96,11 @@ So far, I’ve learned some basic Python concepts, such as:
 - **Linier Regression Visualization with real data sales 2022-2025** : Visualizes sales trends over time using linear regression for pattern detection and simple forecasting.
 - **Added RNN model example (MNIST classification)** : Demonstrates sequence modeling using a simple RNN applied to handwritten digit classification
 - **Enhanced seaborn visual: dark mode + stylish heatmap** : Confusion matrix and trend visuals now in dark theme with clean, modern styling for better readability.
+
+## Progress on Day 21 ( June, 30 )
+- **Linear Regression Visualization with real sales data (2022–2025)** : Displays sales trends and forecasts with linear regression applied on historical data.
+- **Added Uptrend and Downtrend Simulation** :  Example scenarios showing how the model handles increasing and decreasing sales patterns.
+- **Added Average Sales Line** : Plots a horizontal line showing the mean sales as a reference baseline.
   
 ## About Me
 Programming ammateur, starting with Python, Machine Learning, AI, and LLMs.
