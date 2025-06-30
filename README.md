@@ -82,12 +82,12 @@ So far, I’ve learned some basic Python concepts, such as:
 - **Check the code, File reconditioning and alternative visualization for better graphic** 
 
 ## Progress on Day 16 - 17 ( Apr, 8-9 )
-- Setting up the 3D cube coordinates
-- Applying a color gradient using Matplotlib's 'winter' colormap
-- Implementing a rotation animation with horizontal movement
-- Resolving deprecation warnings related to colormap access
-- Saving the animation as a GIF using PillowWriter
-- Simple visualization with dummy data for election in Jabodetabek & Tangsel
+- **Setting up the 3D cube coordinates**
+- **Applying a color gradient using Matplotlib's 'winter' colormap**
+- **Implementing a rotation animation with horizontal movement**
+- **Resolving deprecation warnings related to colormap access**
+- **Saving the animation as a GIF using PillowWriter**
+- **Simple visualization with dummy data for election in Jabodetabek & Tangsel**
 
 ## Progress on Day 18-19 ( Apr, 21-22 )
 - **CNN for MNIST Classification**: Built a Convolutional Neural Network (CNN) to classify handwritten digits (MNIST dataset)
@@ -95,9 +95,9 @@ So far, I’ve learned some basic Python concepts, such as:
 - **Animated 3D-like Visualization**: Created an animated system of transparent spheres with moving particles.
 
 ## Progress on Day 20 ( June, 27 )
-- **Linier Regression Visualization with real data sales 2022-2025**
-- **Added RNN model example (MNIST classification)**
-- **Enhanced seaborn visual: dark mode + stylish heatmap**
+- **Linier Regression Visualization with real data sales 2022-2025** : Visualizes sales trends over time using linear regression for pattern detection and simple forecasting.
+- **Added RNN model example (MNIST classification)** : Demonstrates sequence modeling using a simple RNN applied to handwritten digit classification
+- **Enhanced seaborn visual: dark mode + stylish heatmap** : Confusion matrix and trend visuals now in dark theme with clean, modern styling for better readability.
   
 ## About Me
 Programming ammateur, starting with Python, Machine Learning, AI, and LLMs.
